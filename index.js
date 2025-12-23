@@ -254,6 +254,10 @@ async function run() {
               authorImage: lesson.authorImage,
               count: 0,
             };
+
+  
+
+
           }
           freq[email].count++;
         });
